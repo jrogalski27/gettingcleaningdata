@@ -32,5 +32,6 @@ My project can be recreated with the following steps:
 
 Outputs produced
 ----------------
-* The result is a tidy dataset file called `DatasetHumanActivity.txt` (tab-delimited text)
+* Tidy dataset file called `UCIHARDataset.txt` (tab-delimited text)
 * Codebook file `codebook.md` (Markdown)
+* Codebook file `codebook.html` (HTML)
